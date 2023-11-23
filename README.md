@@ -1,7 +1,7 @@
 # p-sensor
 
 <h1>Projeto feito utilizando esp8266, Arduino Uno e PulseSensor</h1>
-O sensor é conectado pelo arduino por 5v, gnd e a0 (para encaminhar os dados). Além disso, é utilizado 3.3v no esp8266 e as portas tx e rx (portas gdi 16 e 17 respectivamente. Após isso, basta posicionar o dedo no sensor e ignorar as primeiras contagens por conta da variação da luz.
+O sensor é conectado pelo arduino por 5v, gnd e a0 (para encaminhar os dados). Além disso, é utilizado 3.3v no esp8266 e as portas tx e rx (portas gdi 7 e 8 respectivamente. Após isso, basta posicionar o dedo no sensor e ignorar as primeiras contagens por conta da variação da luz.
 
 ## Requerimentos
 Para utilizar, é necessário um Arduíno Uno, um módulo esp8266 e um Pulse sensor</br>
